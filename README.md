@@ -181,11 +181,11 @@ Programmed By: Marella Dharanesh
 Ref.No.: 212222240062
 ```
 ## Output screen shots of proteus  :
- When PushButton is not pressed:
+ 
  ![Screenshot (85)](https://github.com/MarellaDharanesh/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118707669/bd11eb46-bb84-4e8a-bac6-bc0fc4bda03b)
 
 
- When PushButton is pressed :
+
  
 
  ![Screenshot (86)](https://github.com/MarellaDharanesh/EXPERIMENT-06-INTERRUPT-GENERATION-USING-PUSHBUTTON-AND-SIMULATING-THE-OUTPUT-/assets/118707669/ac1a1bd6-f173-424c-8ed4-cac0242e3601)
